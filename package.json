@@ -1,5 +1,5 @@
 {
-  "name": "giotiskl.github.io",
+  "name": "talib1410.github.io",
   "version": "1.0.0",
   "description": "Portfolio of Yiotis Kaltsikis, Front End Developer based in Berlin, Germany",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/giotiskl/giotiskl.github.io.git"
+    "url": "git+https://github.com/talib1410/talib1410.github.io.git"
   },
   "keywords": [
     "frontend",
@@ -22,7 +22,7 @@
   "author": "Yiotis Kaltsikis",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/giotiskl/giotiskl.github.io/issues"
+    "url": "https://github.com/talib1410/talib1410.github.io/issues"
   },
-  "homepage": "https://github.com/giotiskl/giotiskl.github.io#readme"
+  "homepage": "https://github.com/talib1410/talib1410.github.io#readme"
 }
